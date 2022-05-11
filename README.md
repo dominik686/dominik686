@@ -16,7 +16,7 @@ ___
 ## Native Android apps
 
 
-| [Meditation Timer and Mood Journal](https://github.com/Domininiuk/Meditation_timer)       | [Memory Of a Goldfish](https://github.com/Domininiuk/Memory-of-a-Goldfish)           | [Beer Shop](https://github.com/Domininiuk/beer-shop)  | [Pokedex](https://github.com/Domininiuk/Pokedex)          |
+| [Meditation Timer and Mood Journal](https://github.com/Domininiuk/Meditation_timer)       | [Memory Of A Goldfish](https://github.com/Domininiuk/Memory-of-a-Goldfish)           | [Beer Shop](https://github.com/Domininiuk/beer-shop)  | [Pokedex](https://github.com/Domininiuk/Pokedex)          |
 | -------------           |:-------------:                 | -----:    | -----:|
 | col 3 is                | right-aligned                  | $1600 |            |
 

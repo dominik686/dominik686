@@ -1,5 +1,7 @@
-### Hi there 👋
-My name is Dominik I am a BSc Computer Science graduate from the University of Hull in England. I am especially interested in mobile app development. I have worked with native Android development, and recently Flutter. I am currently working on a [Calculator application](https://github.com/Domininiuk/calculator) using Flutter. My previous complete project was a [Meditation Timer and Mood Journal application](https://github.com/Domininiuk/Meditation_timer) developed with Kotlin.
+### Hi 👋
+My name is Dominik. I am a BSc Computer Science graduate from the University of Hull in England. I am especially interested in mobile app development. I have worked with native Android development, and recently Flutter. I am currently working on a [Calculator application](https://github.com/Domininiuk/calculator) using Flutter. My previous complete project was a [Meditation Timer and Mood Journal application](https://github.com/Domininiuk/Meditation_timer) developed with Kotlin.
+#### Contact
+[LinkedIn](https://www.linkedin.com/in/dominik-wieczy%C5%84ski-19ba77209/) - feel free to contact me!
 ____
 ## Flutter Apps
 

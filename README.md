@@ -6,7 +6,7 @@ ____
 
 | [Calculator](https://github.com/Domininiuk/calculator)   
 | ------------- |
-| https://user-images.githubusercontent.com/75265195/167780875-0f7653de-69d3-4421-a1c2-2fea29efe6c6.mp4
+| [demo](https://imgur.com/a/2mETlxI)
 
 
 

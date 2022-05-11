@@ -21,7 +21,7 @@ ___
 | -------------           |:-------------:                 | -----:    
 | Placeholder            | Placeholder                  | Placeholder |           
  
-|[Pokedex]()|
+|[Pokedex](https://github.com/Domininiuk/Pokedex)|
 | ----------|
 |![output](https://user-images.githubusercontent.com/75265195/167845311-ff52e954-bdc3-4b16-a44d-8bbd6f26f56a.gif) |
 

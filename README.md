@@ -6,6 +6,7 @@ My name is Dominik. I am a BSc Computer Science graduate from the University of 
 - Room library ([Meditation Timer and Mood Journal](https://github.com/Domininiuk/Meditation_timer))
 - Kotlin Coroutines ([Meditation Timer and Mood Journal](https://github.com/Domininiuk/Meditation_timer))
 - Navigation Component ([Meditation Timer and Mood Journal](https://github.com/Domininiuk/Meditation_timer), [ Pokedex](https://github.com/Domininiuk/Pokedex)) 
+- Retrofit2  ([Pokedex](https://github.com/Domininiuk/Pokedex)) 
 #### Contact
 [LinkedIn](https://www.linkedin.com/in/dominik-wieczy%C5%84ski-19ba77209/) - feel free to contact me!
 ____

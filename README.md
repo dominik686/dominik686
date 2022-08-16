@@ -12,7 +12,7 @@ My name is Dominik. I am a BSc Computer Science graduate from the University of 
 ____
 ## Flutter Apps
 
-| [Calculator(Current project)](https://github.com/Domininiuk/calculator)| 
+| [Calculator](https://github.com/Domininiuk/calculator)| 
 | ------------- |
 |![spedup -demo](https://user-images.githubusercontent.com/75265195/167788146-073e3ea9-7d28-4349-a514-9e64eb88cb62.gif)|
 

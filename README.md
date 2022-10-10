@@ -31,7 +31,6 @@ ___
 |![output](https://user-images.githubusercontent.com/75265195/167845311-ff52e954-bdc3-4b16-a44d-8bbd6f26f56a.gif) |
 
 
-## Demo Apps
 
 <!--
 **Domininiuk/Domininiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

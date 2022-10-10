@@ -2,6 +2,11 @@
 My name is Dominik. I am a BSc Computer Science graduate from the University of Hull in England. I am especially interested in mobile app development. I have worked with native Android development, and recently Flutter. I am currently working on a [Calculator application](https://github.com/Domininiuk/calculator) using Flutter. My previous complete project was a [Meditation Timer and Mood Journal application](https://github.com/Domininiuk/Meditation_timer) developed with Kotlin.
 
 ## Skills
+
+
+<!--
+I think the skills section would be even better if if each hyperlink redirected to another readme that explained how exactly each skill/library was utilized i ecah project
+-->
 - MVVM pattern (used in all of my Android projects)
 - Room library ([Meditation Timer and Mood Journal](https://github.com/Domininiuk/Meditation_timer))
 - Kotlin Coroutines ([Meditation Timer and Mood Journal](https://github.com/Domininiuk/Meditation_timer))

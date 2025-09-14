@@ -3,7 +3,7 @@ My name is Dominik. I have a BSc Computer Science graduate from the University o
 ## Skills
 
 #### Contact
-[LinkedIn]([www.linkedin.com/in/dominik-wieczyński-19ba77209/](https://www.linkedin.com/in/dominik-wieczy%C5%84ski-19ba77209/)) - feel free to contact me!
+[LinkedIn](https://www.linkedin.com/in/dominik-wieczy%C5%84ski-19ba77209/) - feel free to contact me!
 ____
 ## Flutter Apps
 

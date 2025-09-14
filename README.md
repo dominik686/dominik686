@@ -2,17 +2,8 @@
 My name is Dominik. I have a BSc Computer Science graduate from the University of Hull in England, and a Postgraduate Diploma in Advanced Software Technology from Swansea University in Wales. I am a Software Development Engineer at J.D. Power, and this repo contains all of my mobile app development projects that I did for fun while at university. They are not directly related to the professional work I am doing now.
 ## Skills
 
-
-<!--
-I think the skills section would be even better if if each hyperlink redirected to another readme that explained how exactly each skill/library was utilized i ecah project
--->
-- MVVM pattern (used in all of my Android projects)
-- Room library ([Meditation Timer and Mood Journal](https://github.com/Domininiuk/Meditation_timer))
-- Kotlin Coroutines ([Meditation Timer and Mood Journal](https://github.com/Domininiuk/Meditation_timer))
-- Navigation Component ([Meditation Timer and Mood Journal](https://github.com/Domininiuk/Meditation_timer), [ Pokedex](https://github.com/Domininiuk/Pokedex)) 
-- Retrofit2  ([Pokedex](https://github.com/Domininiuk/Pokedex)) 
 #### Contact
-[LinkedIn](https://www.linkedin.com/in/dominik-wieczy%C5%84ski-19ba77209/) - feel free to contact me!
+[LinkedIn](www.linkedin.com/in/dominik-wieczyński-19ba77209/) - feel free to contact me!
 ____
 ## Flutter Apps
 

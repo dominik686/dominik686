@@ -1,5 +1,5 @@
 ### Hi 👋
-My name is Dominik. I am a BSc Computer Science graduate from the University of Hull in England, and a Postgraduate Diploma in Advanced Software Technology from Swansea University in Wales. I am a Software Development Engineer at J.D. Power, and this repo contains all of my mobile app development projects that I did for fun while at university. They are not directly related to the professional work I am doing now.
+My name is Dominik. I have a BSc Computer Science graduate from the University of Hull in England, and a Postgraduate Diploma in Advanced Software Technology from Swansea University in Wales. I am a Software Development Engineer at J.D. Power, and this repo contains all of my mobile app development projects that I did for fun while at university. They are not directly related to the professional work I am doing now.
 ## Skills
 
 
